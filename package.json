@@ -9,7 +9,7 @@
     "test": "npm run build && mocha test/**/*.spec.js --exit"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel": "^6.23.0",
     "babel-loader": "^7.1.1",
     "babel-preset-airbnb": "^1.0.1",
